@@ -1,0 +1,31 @@
+# Dataset
+datasets/
+chexpert.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.keras
+*.ckpt
+
+# SavedModel
+models/xray_disease_model/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar.gz
